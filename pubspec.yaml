@@ -1,7 +1,7 @@
 name: logo_n_spinner
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/pmatatias/logo-n-spinner
 
 environment:
   sdk: ">=2.17.3 <3.0.0"

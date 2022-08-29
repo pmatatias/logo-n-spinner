@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 Release
 
-* TODO: Describe initial release.
+* Flutter Loader widget with logo and spinner.
