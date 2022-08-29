@@ -5,13 +5,13 @@ import 'package:logo_n_spinner/paint_arc.dart';
 
 class LogoandSpinner extends StatefulWidget {
   /// image path
-  final String? imageAssets;
+  final String imageAssets;
 
   /// reverse spin
   final bool reverse;
   const LogoandSpinner({
     Key? key,
-    this.imageAssets,
+    required this.imageAssets,
     this.reverse = false,
   }) : super(key: key);
 
@@ -62,7 +62,7 @@ class _LogoandSpinnerState extends State<LogoandSpinner>
               width: 60,
               height: 60,
               child: Image.asset(
-                widget.imageAssets ?? 'assets/flutter.png',
+                widget.imageAssets,
               ),
             ),
             RotationTransition(

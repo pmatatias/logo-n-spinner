@@ -19,7 +19,7 @@ class MyWidget extends StatelessWidget {
       title: 'Flutter Demo',
       home: Scaffold(
         body: Center(
-          child: LogoandSpinner(),
+          child: LogoandSpinner(imageAssets: ''),
         ),
       ),
     );
