@@ -8,12 +8,12 @@ Flutter loader widget with logo and spinning arc. User your image assets to crea
 
 ```dart
 import 'package:logo_n_spinner/logo_n_spinner.dart';
-
 ...
-LogoandSpinner(
-  imageAssets: 'assets/potatoo.png',
-  reverse: true,
-),
+  LogoandSpinner(
+    imageAssets: 'assets/potatoo.png',
+    reverse: true,
+  ),
+...
 ```
 
 ## Preview
