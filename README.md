@@ -1,20 +1,24 @@
-Flutter loader with logo or image and spinner arround it.
-
+Flutter loader widget with logo and spinning arc. User your image assets to create loader animation with the image logo and spinner arround it. Simple to use.
 ## Features
 
 - Custom image from assets
 - Clockwise and counterclockwise spinning
 
-## Getting started
+## Usage
 
 ```dart
 import 'package:logo_n_spinner/logo_n_spinner.dart';
+
+...
+LogoandSpinner(
+  imageAssets: 'assets/potatoo.png',
+  reverse: true,
+),
 ```
 
 ## Preview
 
-<img src="https://github.com/pmatatias/logo-n-spinner/blob/master/assets/reverse.gif" alt="reverse true" title="Reverse True"> <img src="https://github.com/pmatatias/logo-n-spinner/blob/master/assets/reverse_false.gif" alt="revese false" title="reverse false">
-
+<img src="https://github.com/pmatatias/logo-n-spinner/blob/master/assets/preview.gif" alt="img prev" title="img prev"> 
 
 ## Additional information
 
