@@ -1,4 +1,4 @@
-Flutter loader widget with logo and spinning arc. User your image assets to create loader animation with the image logo and spinner arround it. Simple to use.
+Flutter loader widget with logo and spinning arc. Use your image assets to create loader animation with the image logo and spinner arround it. Simple to use.
 ## Features
 
 - Custom image from assets
