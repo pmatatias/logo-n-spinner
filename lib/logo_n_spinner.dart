@@ -4,10 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:logo_n_spinner/paint_arc.dart';
 
 class LogoandSpinner extends StatefulWidget {
-  /// image path
+  /// image path from assets
+  /// eg : 'assets/potatoo.png'
   final String imageAssets;
 
   /// reverse spin
+  /// default = false 
   final bool reverse;
   const LogoandSpinner({
     Key? key,
@@ -75,6 +77,7 @@ class _LogoandSpinnerState extends State<LogoandSpinner>
     );
   }
 
+  ///  build arc around logo image
   Widget buildRing() {
     return Stack(
       children: [
