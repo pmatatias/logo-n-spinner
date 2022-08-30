@@ -18,7 +18,7 @@ import 'package:logo_n_spinner/logo_n_spinner.dart';
 
 ## Preview
 
-<img src="https://github.com/pmatatias/logo-n-spinner/blob/master/assets/preview.gif" alt="img prev" title="img prev"> 
+<img src="https://raw.githubusercontent.com/pmatatias/logo-n-spinner/master/assets/preview.gif" alt="img prev" title="img prev"> 
 
 ## Additional information
 

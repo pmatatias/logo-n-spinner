@@ -5,3 +5,6 @@
 ## 0.0.2
 * Add Example code
 * Add more description
+
+## 0.0.3
+* Fix scores
