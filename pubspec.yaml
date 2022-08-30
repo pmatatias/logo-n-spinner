@@ -1,5 +1,5 @@
 name: logo_n_spinner
-description: Loader widget with logo and spinning arc on flutter. Add your image from assets you can create loader animation with the image logo and spinner arround it. Simple with just one widget.
+description: Flutter loader widget with logo and spinning arc. Use your image assets to create loader animation.
 version: 0.0.2
 homepage: https://github.com/pmatatias/logo-n-spinner
 

@@ -9,7 +9,7 @@ class LogoandSpinner extends StatefulWidget {
   final String imageAssets;
 
   /// reverse spin
-  /// default = false 
+  /// default = false
   final bool reverse;
   const LogoandSpinner({
     Key? key,
