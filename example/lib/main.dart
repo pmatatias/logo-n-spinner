@@ -48,6 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
               imageAssets: 'assets/potatoo.png',
               reverse: true,
               arcColor: Colors.greenAccent,
+              spinSpeed: Duration(milliseconds: 500),
             ),
             Text("Reverse : true ")
           ],
