@@ -11,10 +11,15 @@ class LogoandSpinner extends StatefulWidget {
   /// reverse spin
   /// default = false
   final bool reverse;
+
+  /// color for arc widget
+  /// default : Colors.blueAccent
+  final Color arcColor;
   const LogoandSpinner({
     Key? key,
     required this.imageAssets,
     this.reverse = false,
+    this.arcColor = Colors.blueAccent,
   }) : super(key: key);
 
   @override
@@ -30,7 +35,7 @@ class _LogoandSpinnerState extends State<LogoandSpinner>
   void initState() {
     _controller = AnimationController(
       vsync: this,
-      duration: const Duration(seconds: 2),
+      duration: const Duration(seconds: 5),
     );
     animationRotation =
         Tween<double>(begin: 0.0, end: 1.0).animate(CurvedAnimation(
@@ -85,14 +90,14 @@ class _LogoandSpinnerState extends State<LogoandSpinner>
           painter: PaintArc(
             start: 2,
             sweep: 5,
-            color: Colors.blueAccent,
+            color: widget.arcColor,
           ),
         ),
         CustomPaint(
           painter: PaintArc(
             start: 18,
             sweep: 5,
-            color: Colors.blueAccent,
+            color: widget.arcColor,
           ),
         ),
       ],

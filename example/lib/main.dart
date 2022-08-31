@@ -47,6 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
             LogoandSpinner(
               imageAssets: 'assets/potatoo.png',
               reverse: true,
+              arcColor: Colors.greenAccent,
             ),
             Text("Reverse : true ")
           ],
