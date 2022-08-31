@@ -15,10 +15,20 @@ class LogoandSpinner extends StatefulWidget {
   /// color for arc widget
   /// default : Colors.blueAccent
   final Color arcColor;
+
+  /// set speed of arc to rotate based on duration
+  /// The smaller the value, the faster it will be
+  ///
+  /// eg: [const Duration(seconds:2)]
+  /// it will take 2 seconds for the arc 
+  /// to do 1 full rotation animation
+  final Duration spinSpeed;
+
   const LogoandSpinner({
     Key? key,
     required this.imageAssets,
     this.reverse = false,
+    this.spinSpeed = const Duration(seconds: 2),
     this.arcColor = Colors.blueAccent,
   }) : super(key: key);
 
@@ -35,7 +45,7 @@ class _LogoandSpinnerState extends State<LogoandSpinner>
   void initState() {
     _controller = AnimationController(
       vsync: this,
-      duration: const Duration(seconds: 5),
+      duration: widget.spinSpeed,
     );
     animationRotation =
         Tween<double>(begin: 0.0, end: 1.0).animate(CurvedAnimation(
