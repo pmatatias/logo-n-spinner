@@ -20,7 +20,7 @@ class LogoandSpinner extends StatefulWidget {
   /// The smaller the value, the faster it will be
   ///
   /// eg: [const Duration(seconds:2)]
-  /// it will take 2 seconds for the arc 
+  /// it will take 2 seconds for the arc
   /// to do 1 full rotation animation
   final Duration spinSpeed;
 
