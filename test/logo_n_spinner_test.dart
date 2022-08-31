@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:logo_n_spinner/logo_n_spinner.dart';
+import 'package:logo_n_spinner/src/logo_n_spinner.dart';
 import 'package:flutter/material.dart';
 
 void main() {
