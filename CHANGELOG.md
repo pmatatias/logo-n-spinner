@@ -1,3 +1,7 @@
+## 0.1.1
+
+- fix changelog writing procedure
+
 ## 0.1.0
 
 - Add property change arc colors
