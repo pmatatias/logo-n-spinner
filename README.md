@@ -1,3 +1,8 @@
+# Logo and Spinner
+
+[![pub package](https://img.shields.io/pub/v/logo_n_spinner.svg)](https://pub.dev/packages/logo_n_spinner)
+[![package publisher](https://img.shields.io/pub/publisher/logo_n_spinner.svg)](https://pub.dev/publishers/pmatatias.dev/packages)
+
 Flutter loader widget with logo and spinning arc. Use your image assets to create loader animation with the image logo and spinner arround it. Simple to use.
 
 ## Features
