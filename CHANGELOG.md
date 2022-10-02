@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Update documentation
+
 ## 0.1.1
 
 - fix changelog writing procedure
