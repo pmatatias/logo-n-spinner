@@ -1,12 +1,12 @@
 name: logo_n_spinner
 description: Flutter loader widget with logo and spinning arc. Use your image assets to create loader animation.
-version: 0.1.2
+version: 0.1.2+1
 homepage: https://pmatatias.dev
 repository: https://github.com/pmatatias/logo-n-spinner
 issue_tracker: https://github.com/pmatatias/logo-n-spinner/issues
 
 environment:
-  sdk: ">=2.14.2 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:

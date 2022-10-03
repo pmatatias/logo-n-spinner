@@ -1,3 +1,7 @@
+# 0.1.2+1
+
+- add additional information
+
 ## 0.1.2
 
 - Update documentation
