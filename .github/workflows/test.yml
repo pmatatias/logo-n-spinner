@@ -13,12 +13,15 @@ jobs:
     steps:
       - name: Checkout the code
         uses: actions/checkout@v2
+
       - name: Install and set Flutter version
         uses: subosito/flutter-action@v1.4.0
         with:
           flutter-version: '3.3.0'
+
       - name: Restore packages
         run: flutter pub get
+        
       - name: Analyze
         run: flutter analyze
 
@@ -28,7 +31,6 @@ jobs:
       - name: Upload coverage to codecov
         run: curl -s https://codecov.io/bash
         shell: bash
-
-          ignore:
+ignore:
       # - '**/example/'
       - '**/*.g.dart'
