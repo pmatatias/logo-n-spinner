@@ -21,7 +21,7 @@ jobs:
 
       - name: Restore packages
         run: flutter pub get
-        
+
       - name: Analyze
         run: flutter analyze
 
@@ -31,6 +31,3 @@ jobs:
       - name: Upload coverage to codecov
         run: curl -s https://codecov.io/bash
         shell: bash
-ignore:
-      # - '**/example/'
-      - '**/*.g.dart'
