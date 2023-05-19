@@ -2,9 +2,9 @@
 
 
 [![pub package](https://img.shields.io/pub/v/logo_n_spinner.svg)](https://pub.dev/packages/logo_n_spinner)
-[![likes](https://img.shields.io/pub/likes/logo-n-spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score) 
-[![popularity](https://img.shields.io/pub/popularity/logo-n-spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score) 
-[![pub points](https://img.shields.io/pub/points/logo-n-spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score)
+[![likes](https://img.shields.io/pub/likes/logo_n_spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score) 
+[![popularity](https://img.shields.io/pub/popularity/logo_n_spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score) 
+[![pub points](https://img.shields.io/pub/points/logo_n_spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score)
 [![package publisher](https://img.shields.io/pub/publisher/logo_n_spinner.svg)](https://pub.dev/publishers/pmatatias.dev/packages)
 <a href="https://github.com/pmatatias/logo-n-spinner"><img src="https://img.shields.io/github/stars/pmatatias/logo-n-spinner.svg?style=flat&logo=github&colorB=deepgreen&label=stars" alt="Star on Github"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License: MIT"></a>
