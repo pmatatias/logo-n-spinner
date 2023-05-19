@@ -36,9 +36,9 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Center(
+      body: const Center(
         child: Column(
-          children: const [
+          children: [
             LogoandSpinner(imageAssets: 'assets/potatoo.png'),
             Text("Reverse : false (default)"),
             SizedBox(

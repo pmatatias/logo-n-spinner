@@ -1,3 +1,9 @@
+## 0.1.3
+
+- test run with dart `3.0` and Flutter `3.10.1`
+- doc: add screenshoot and funding
+- update enviroment sdk `<4.0.0`
+
 ## 0.1.2+1
 
 - add additional information
