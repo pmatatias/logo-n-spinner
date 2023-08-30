@@ -1,3 +1,7 @@
+## 0.1.4
+
+- remove homepage
+
 ## 0.1.3 https://github.com/pmatatias/logo-n-spinner/pull/7
 
 - test run with dart `3.0` and Flutter `3.10.1`
