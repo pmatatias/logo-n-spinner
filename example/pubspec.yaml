@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   
   logo_n_spinner:
-   path: ../../logo_n_spinner
+   path: ../../logo-n-spinner
 
 
   

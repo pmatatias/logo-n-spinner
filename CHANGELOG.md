@@ -1,3 +1,7 @@
+## 0.1.5
+
+- remove unused assets to reduce package size
+
 ## 0.1.4
 
 - remove homepage
