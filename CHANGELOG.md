@@ -1,3 +1,7 @@
+## 0.1.6
+
+- no changes
+
 ## 0.1.5
 
 - remove unused assets to reduce package size
