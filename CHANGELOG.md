@@ -1,3 +1,10 @@
+## 0.1.7
+
+May 27, 2024
+
+- doc: update demo app
+- fix: dangling lib comment
+
 ## 0.1.6
 
 - no changes

@@ -1,13 +1,34 @@
 # Logo and Spinner
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=dev.pmatatias.gnade&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" style="display: inline-block;">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="90" style="vertical-align: middle;"/>
+  </a>
+</p>
 
-[![pub package](https://img.shields.io/pub/v/logo_n_spinner.svg)](https://pub.dev/packages/logo_n_spinner)
-[![likes](https://img.shields.io/pub/likes/logo_n_spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score) 
-[![popularity](https://img.shields.io/pub/popularity/logo_n_spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score) 
-[![pub points](https://img.shields.io/pub/points/logo_n_spinner?logo=dart)](https://pub.dev/packages/logo_n_spinner/score)
-[![package publisher](https://img.shields.io/pub/publisher/logo_n_spinner.svg)](https://pub.dev/publishers/pmatatias.dev/packages)
-<a href="https://github.com/pmatatias/logo-n-spinner"><img src="https://img.shields.io/github/stars/pmatatias/logo-n-spinner.svg?style=flat&logo=github&colorB=deepgreen&label=stars" alt="Star on Github"></a>
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License: MIT"></a>
+<p align="center">
+  <a href="https://pub.dev/packages/logo_n_spinner">
+    <img src="https://img.shields.io/pub/v/logo_n_spinner.svg" alt="pub pkg">
+  </a>
+  <a href="https://pub.dev/packages/logo_n_spinner/score">
+    <img src="https://img.shields.io/pub/likes/logo_n_spinner?logo=dart" alt="likes">
+  </a>
+  <a href="https://pub.dev/packages/logo_n_spinner/score">
+    <img src="https://img.shields.io/pub/popularity/logo_n_spinner?logo=dart" alt="Popularity">
+  </a>
+  <a href="https://pub.dev/packages/logo_n_spinner/score">
+    <img src="https://img.shields.io/pub/points/logo_n_spinner?logo=dart" alt="Pub points">
+  </a>
+  <a href="https://pub.dev/publishers/pmatatias.dev/packages">
+    <img src="https://img.shields.io/pub/publisher/logo_n_spinner.svg" alt="Publisher">
+  </a>
+  <a href="https://github.com/pmatatias/logo-n-spinner">
+    <img src="https://img.shields.io/github/stars/pmatatias/logo-n-spinner.svg?style=flat&logo=github&colorB=deepgreen&label=stars" alt="Star on Github">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License: MIT">
+  </a>
+</p>
 
 Flutter loader widget with logo and spinning arc. Use your image assets to create loader animation with the image logo and spinner arround it. Simple to use.
 
